@@ -114,6 +114,12 @@ If you ever want it to *win* a game:
 - Quiescence search (stop hanging pieces in capture sequences)
 - Transposition tables
 
+---
+
 ## License
 
-MIT — do whatever you like with it.
+MIT — do whatever you want with it.
+
+---
+
+<sub>Built with 💜 by <a href="https://github.com/R3MU5x">R3MU5x</a></sub>
